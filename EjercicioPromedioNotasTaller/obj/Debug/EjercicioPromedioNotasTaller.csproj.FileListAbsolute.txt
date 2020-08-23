@@ -1,0 +1,10 @@
+C:\Users\DAVID CASTAÑEDA\source\repos\EjercicioPromedioNotasTaller\EjercicioPromedioNotasTaller\bin\Debug\EjercicioPromedioNotasTaller.exe.config
+C:\Users\DAVID CASTAÑEDA\source\repos\EjercicioPromedioNotasTaller\EjercicioPromedioNotasTaller\bin\Debug\EjercicioPromedioNotasTaller.exe
+C:\Users\DAVID CASTAÑEDA\source\repos\EjercicioPromedioNotasTaller\EjercicioPromedioNotasTaller\bin\Debug\EjercicioPromedioNotasTaller.pdb
+C:\Users\DAVID CASTAÑEDA\source\repos\EjercicioPromedioNotasTaller\EjercicioPromedioNotasTaller\obj\Debug\EjercicioPromedioNotasTaller.csprojAssemblyReference.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\EjercicioPromedioNotasTaller\EjercicioPromedioNotasTaller\obj\Debug\EjercicioPromedioNotasTaller.Form1.resources
+C:\Users\DAVID CASTAÑEDA\source\repos\EjercicioPromedioNotasTaller\EjercicioPromedioNotasTaller\obj\Debug\EjercicioPromedioNotasTaller.Properties.Resources.resources
+C:\Users\DAVID CASTAÑEDA\source\repos\EjercicioPromedioNotasTaller\EjercicioPromedioNotasTaller\obj\Debug\EjercicioPromedioNotasTaller.csproj.GenerateResource.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\EjercicioPromedioNotasTaller\EjercicioPromedioNotasTaller\obj\Debug\EjercicioPromedioNotasTaller.csproj.CoreCompileInputs.cache
+C:\Users\DAVID CASTAÑEDA\source\repos\EjercicioPromedioNotasTaller\EjercicioPromedioNotasTaller\obj\Debug\EjercicioPromedioNotasTaller.exe
+C:\Users\DAVID CASTAÑEDA\source\repos\EjercicioPromedioNotasTaller\EjercicioPromedioNotasTaller\obj\Debug\EjercicioPromedioNotasTaller.pdb
